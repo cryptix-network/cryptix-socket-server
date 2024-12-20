@@ -1,4 +1,4 @@
-#Cryptix Socket Server
+# Cryptix Socket Server
 
 Start with a Bat File / Powershell file or similar:
 
